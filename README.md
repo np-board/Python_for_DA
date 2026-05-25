@@ -1,2 +1,2 @@
-# Python_for_DA
+# README.md
 Домашние задания по курсу Python для анализа данных
